@@ -1,4 +1,4 @@
-# ChatApp
+<h1 align="center">ChatApp</h1>
 
 ## Overview
 ChatApp is a real-time chat application built using the MERN stack. It allows users to communicate with others through instant messaging. The app features user authentication, real-time updates, and a modern UI design for a seamless chatting experience.
